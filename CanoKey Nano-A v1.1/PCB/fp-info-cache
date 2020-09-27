@@ -1,0 +1,36 @@
+7935038050430
+MAS_Package_std
+BGA-84_10.5x13.0mm_Layout2x3x16_P0.8mm
+BGA-84,
+BGA-84
+0
+90
+90
+MAS_Package_std
+Crystal_SMD_3215-2Pin_3.2x1.5mm
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
+SMD SMT Crystal
+0
+2
+2
+MAS_Package_std
+RJ12_Amphenol_54601
+RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf
+RJ12 connector
+0
+6
+6
+MAS_Package_std
+WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4mm
+WSON, 8 Pin (https://www.winbond.com/resource-files/an0000009%20spiflash%20pcb%20layout%20guideline%20v2.0%2009252017.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+13
+9
+MAS_Package_std
+microSD_HC_Wuerth_693072010801
+Micro_SD_Connector
+
+0
+12
+9
