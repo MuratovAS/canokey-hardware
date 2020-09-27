@@ -103,13 +103,13 @@ Text Label 6850 3400 2    50   ~ 0
 SWCLK
 Text Label 6850 3300 2    50   ~ 0
 SWDIO
-Text Label 5150 3000 0    50   ~ 0
+Text Label 5150 3100 0    50   ~ 0
 LEDG
 Text Label 5150 2400 0    50   ~ 0
 TOUCH
 Text Label 6850 3200 2    50   ~ 0
 USB_P
-Text Label 5150 3100 0    50   ~ 0
+Text Label 5150 3000 0    50   ~ 0
 LEDR
 Wire Wire Line
 	6100 1800 6100 1700
@@ -142,9 +142,9 @@ Wire Wire Line
 Wire Wire Line
 	5150 2400 5500 2400
 Wire Wire Line
-	5150 3000 5500 3000
-Wire Wire Line
 	5150 3100 5500 3100
+Wire Wire Line
+	5150 3000 5500 3000
 Wire Wire Line
 	6500 3400 6850 3400
 Wire Wire Line
